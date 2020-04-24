@@ -1,0 +1,6 @@
+2020-04-24 10:52:47.189 [http-nio-8120-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 10:52:47.240 [http-nio-8120-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 46 ms
+2020-04-24 12:02:07.395 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 14:12:04.034 [restartedMain] INFO  com.msr.sysuser.SysuserApplication - Starting SysuserApplication on appledeMacBook-Air.local with PID 4707 (/Users/apple/Documents/IdeaProjects/msr-parent/sysuser/target/classes started by apple in /Users/apple/Documents/IdeaProjects/msr-parent)
+2020-04-24 14:12:04.049 [restartedMain] INFO  com.msr.sysuser.SysuserApplication - The following profiles are active: dev
+2020-04-24 14:12:04.954 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable

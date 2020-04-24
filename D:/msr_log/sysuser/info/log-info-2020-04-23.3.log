@@ -1,0 +1,8 @@
+2020-04-23 10:15:05.200 [http-nio-8120-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-23 10:15:05.207 [http-nio-8120-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-23 10:15:05.247 [http-nio-8120-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 39 ms
+2020-04-23 11:15:48.103 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-23 11:17:44.351 [restartedMain] INFO  com.msr.sysuser.SysuserApplication - Starting SysuserApplication on appledeMacBook-Air.local with PID 2113 (/Users/apple/Documents/IdeaProjects/msr-parent/sysuser/target/classes started by apple in /Users/apple/Documents/IdeaProjects/msr-parent)
+2020-04-23 11:17:44.360 [restartedMain] INFO  com.msr.sysuser.SysuserApplication - The following profiles are active: dev
+2020-04-23 11:17:44.622 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-23 11:17:44.624 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'

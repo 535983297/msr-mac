@@ -1,0 +1,7 @@
+2020-04-22 14:36:55.394 [restartedMain] INFO  com.msr.sysuser.SysuserApplication - Starting SysuserApplication on appledeMacBook-Air.local with PID 6930 (/Users/apple/Documents/IdeaProjects/msr-parent/sysuser/target/classes started by apple in /Users/apple/Documents/IdeaProjects/msr-parent)
+2020-04-22 14:36:55.404 [restartedMain] INFO  com.msr.sysuser.SysuserApplication - The following profiles are active: dev
+2020-04-22 14:36:55.856 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-22 14:36:55.858 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-22 14:36:58.202 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+2020-04-22 14:36:58.207 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-04-22 14:36:58.260 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.

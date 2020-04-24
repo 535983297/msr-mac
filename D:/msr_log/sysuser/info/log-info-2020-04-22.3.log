@@ -1,0 +1,6 @@
+2020-04-22 14:42:25.015 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-22 14:58:15.638 [restartedMain] INFO  com.msr.sysuser.SysuserApplication - Starting SysuserApplication on appledeMacBook-Air.local with PID 7496 (/Users/apple/Documents/IdeaProjects/msr-parent/sysuser/target/classes started by apple in /Users/apple/Documents/IdeaProjects/msr-parent)
+2020-04-22 14:58:15.667 [restartedMain] INFO  com.msr.sysuser.SysuserApplication - The following profiles are active: dev
+2020-04-22 14:58:16.797 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-22 14:58:16.801 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-22 14:58:23.763 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
